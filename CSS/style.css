@@ -1,0 +1,50 @@
+body {
+    background: #0c0f4c;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  .card {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #e8edef;
+    max-width: 260px;
+    border-radius: 20px;
+    margin: 60px auto;
+  }
+  
+  .card td {
+    color: #F45757;
+    font-size: x-large;
+  }
+  
+  .card input {
+    border: none;
+    padding: 5px;
+    font-size: 24px;
+    border-radius: 12px;
+    width: 9vh;
+    background-color: #2f36a7;
+    color: #fff;
+    resize: none;
+    
+  }
+  .card input:focus {
+    outline: none !important;
+  }
+  .card table {
+    width: 100%;
+  }
+  .image {
+    text-align: right;
+  }
+  .heading {
+    color: #e8edef;
+    text-align: center;
+    font-weight: 600;
+  }
+  .responsive {
+    width: 60%;
+    max-width: 400px;
+    height: auto;
+  }
